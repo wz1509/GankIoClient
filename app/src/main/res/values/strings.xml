@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GankIo</string>
+
+
+    <string name="title_gank_io">干货</string>
+    <string name="title_xd">闲读</string>
+    <string name="title_more">更多</string>
+
+</resources>
